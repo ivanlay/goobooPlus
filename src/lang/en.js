@@ -65,7 +65,7 @@ export default {
     convert: 'Convert',
     add: 'Add',
     playedBefore: {
-      0: 'Already played before? Load your savefile ',
+      0: 'Already played Gooboo Plus or Gooboo before? Load your savefile ',
       1: 'here'
     },
     offlineSummary: {
@@ -146,8 +146,8 @@ export default {
     }
   },
   duplicateTab: {
-    title: 'Gooboo is already running in another tab',
-    description: 'To prevent inconsistencies with your savefile, Gooboo can only run once. Please close this tab and return to the game on the existing tab.'
+    title: 'Gooboo Plus is already running in another tab',
+    description: 'To prevent inconsistencies with your savefile, Gooboo Plus can only run once. Please close this tab and return to the game on the existing tab.'
   },
   confirm: {
     title: 'Confirm action',
@@ -250,10 +250,10 @@ export default {
   consumable,
   patchnote,
   info: {
-    title: 'Gooboo',
+    title: 'Gooboo Plus',
     subtitle: 'developed by Tendsty',
     testing: 'testing',
-    text: 'Gooboo is an idle / incremental game where you manage multiple features in a mysterious, unknown world. Gather different resources to buy a huge variety of upgrades to increase your resource gains. Progress in your main features to unlock new content and learn more about this world. And when progression starts slowing down, prestige individual features to take your gains to the next level.',
+    text: 'Gooboo Plus is an idle / incremental game where you manage multiple features in a mysterious, unknown world. Gather different resources to buy a huge variety of upgrades to increase your resource gains. Progress in your main features to unlock new content and learn more about this world. And when progression starts slowing down, prestige individual features to take your gains to the next level.',
     updates: {
       web: 'You are using the web version. The game regularly checks for updates, automatically uses the newest version and notifies you when an update is available.',
       desktop: {
@@ -287,7 +287,7 @@ export default {
     },
     socials: {
       title: 'Socials',
-      text: 'Gooboo can be played on its own without the need for external guides. But if you feel like hanging out with other players, you can visit these places:',
+      text: 'Gooboo Plus can be played on its own without the need for external guides. But if you feel like hanging out with other players, you can visit these places:',
       viewCode: 'View source code',
       patreon: 'Patreon',
       reddit: 'Reddit',

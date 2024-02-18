@@ -48,7 +48,7 @@
       <v-card-actions class="flex-wrap justify-end">
         <v-spacer></v-spacer>
         <v-btn class="ma-1" color="primary" @click="toPatchnote"><v-icon class="mr-2">mdi-script-text</v-icon>{{ $vuetify.lang.t('$vuetify.info.viewPatchnotes') }}</v-btn>
-        <v-btn class="ma-1" color="primary" target="_blank" href="https://github.com/Tendsty/gooboo"><v-icon class="mr-2">mdi-open-in-new</v-icon>{{ $vuetify.lang.t('$vuetify.info.socials.viewCode') }}</v-btn>
+        <v-btn class="ma-1" color="primary" target="_blank" href="https://github.com/ivanlay/goobooPlus"><v-icon class="mr-2">mdi-open-in-new</v-icon>{{ $vuetify.lang.t('$vuetify.info.socials.viewCode') }}</v-btn>
       </v-card-actions>
     </v-card>
     <v-card class="ma-2">

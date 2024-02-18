@@ -146,8 +146,8 @@ export default {
     }
   },
   duplicateTab: {
-    title: 'Gooboo läuft bereits in einem anderen Tab',
-    description: 'Um Konflikte im Spielstand zu vermeiden, kann Gooboo nur einmal gleichzeitig laufen. Bitte schließe diesen Tab und kehre zum vorhandenen Tab mit dem Spiel zurück.'
+    title: 'Gooboo Plus läuft bereits in einem anderen Tab',
+    description: 'Um Konflikte im Spielstand zu vermeiden, kann Gooboo Plus nur einmal gleichzeitig laufen. Bitte schließe diesen Tab und kehre zum vorhandenen Tab mit dem Spiel zurück.'
   },
   confirm: {
     title: 'Aktion bestätigen',
@@ -250,10 +250,10 @@ export default {
   consumable,
   patchnote,
   info: {
-    title: 'Gooboo',
+    title: 'Gooboo Plus',
     subtitle: 'entwickelt von Tendsty',
     testing: 'testen',
-    text: 'Gooboo ist ein Idle / Incremental-Spiel, wo du verschiedene Funktionen in einer mysteriösen, unbekannten Welt verwaltest. Sammle verschiedene Ressourcen, um eine riesige Menge an Verbesserungen zu kaufen und dein Rohstoffeinkommen weiter zu erhöhen. Schreite in den Hauptfunktionen fort, um neue Inhalte freizuschalten und mehr über diese Welt zu erfahren. Und sollte der Fortschritt sich verlangsamen, kannst du für einzelne Funktionen einen Prestige durchführen, um die Rohstoffgewinne auf die nächste Stufe zu bringen.',
+    text: 'Gooboo Plus ist ein Idle / Incremental-Spiel, wo du verschiedene Funktionen in einer mysteriösen, unbekannten Welt verwaltest. Sammle verschiedene Ressourcen, um eine riesige Menge an Verbesserungen zu kaufen und dein Rohstoffeinkommen weiter zu erhöhen. Schreite in den Hauptfunktionen fort, um neue Inhalte freizuschalten und mehr über diese Welt zu erfahren. Und sollte der Fortschritt sich verlangsamen, kannst du für einzelne Funktionen einen Prestige durchführen, um die Rohstoffgewinne auf die nächste Stufe zu bringen.',
     updates: {
       web: 'Du verwendest die Web-Version. Das Spiel prüft automatisch auf Updates, hält sich von selbst aktuell und benachrichtigt dich, wenn ein Update verfügbar ist.',
       desktop: {
@@ -287,7 +287,7 @@ export default {
     },
     socials: {
       title: 'Kontakte',
-      text: 'Gooboo kann alleine und ohne Hilfe von außen gespielt werden. Aber wenn du dich mit anderen Spielern austauschen möchtest, kannst du das hier tun:',
+      text: 'Gooboo Plus kann alleine und ohne Hilfe von außen gespielt werden. Aber wenn du dich mit anderen Spielern austauschen möchtest, kannst du das hier tun:',
       viewCode: 'Quellcode ansehen',
       patreon: 'Patreon',
       reddit: 'Reddit',
