@@ -29,7 +29,7 @@
         <div class="mb-2">{{ $vuetify.lang.t('$vuetify.info.text') }}</div>
         <div v-if="appEnv === 'desktop' || appEnv === 'offline'">
           <span>{{ $vuetify.lang.t(`$vuetify.info.updates.${ appEnv }.0`) }}</span>
-          <a target="_blank" href="https://github.com/Tendsty/gooboo/releases">
+          <a target="_blank" href="https://github.com/ivanlay/goobooPlus/releases">
             <span>{{ $vuetify.lang.t(`$vuetify.info.updates.${ appEnv }.1`) }}</span>
           </a>
           <span>{{ $vuetify.lang.t(`$vuetify.info.updates.${ appEnv }.2`) }}</span>
@@ -38,7 +38,7 @@
         <alert-text v-if="isTestingVersion" class="mt-2">
           <div>
             <span>{{ $vuetify.lang.t('$vuetify.info.testingDescription.0') }}</span>
-            <a target="_blank" href="https://tendsty.github.io/gooboo">
+            <a target="_blank" href="https://ivanlay.github.io/goobooPlus/">
               <span>{{ $vuetify.lang.t('$vuetify.info.testingDescription.1') }}</span>
             </a>
             <span>{{ $vuetify.lang.t('$vuetify.info.testingDescription.2') }}</span>
