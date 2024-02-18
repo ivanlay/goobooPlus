@@ -17,6 +17,6 @@
           - name: Install packages
             run: npm i
           - name: Set Creds
-            run: git config user.name "Tendsty" && git config user.email "13257861+ivanlay@users.noreply.github.com"
+            run: git config user.name "ivanlay" && git config user.email "13257861+ivanlay@users.noreply.github.com"
           - name: Deploy
             run: npm run deploy
